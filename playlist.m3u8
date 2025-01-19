@@ -39,88 +39,6 @@ http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="sts-int" tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Популярные каналы",СТС Int (EDTV 576p)
 https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)", BCU FilMystic HD
-http://live.admuspeh.my/8880/video.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)", BCU Мультсериал HD
-http://live.admuspeh.my/8874/index.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)", CineMan Комедийные сериалы
-http://live.admuspeh.my/8958/index.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)", Film TV 1
-http://hls.goodgame.ru:8080/hls/163253.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)", Film TV 2
-http://hls.goodgame.ru/hls/208358.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)", Film TV 3
-http://hls.goodgame.ru/hls/209426.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)", Film TV 4
-https://hls.goodgame.ru/hls/181039.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)", Film TV 7
-http://hls.goodgame.ru/hls/210275.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",1FILMAX
-http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",2FILMAX
-http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",CANAL+ FILM
-http://178.219.128.68:64889/CANAFILMHD
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",FILM TV GROUP
-http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",FILM TV GROUP МультКазки
-http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP_multkazki/index.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
-#EXTINF:-1 tvg-id="2181" tvg-logo="http://epg.one/img2/2181.png" group-title="Видеотека (VOD)",Filmbox (EDTV 576p)
-http://130.193.73.10:8937/play/a03s
-#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://iptvx.one/picons/filmbox-arthouse.png" group-title="Видеотека (VOD)",Filmbox Arthouse (EDTV 576p)
-http://130.193.73.10:8937/play/a03t
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",FILMUADRAMA HD
-http://live.admuspeh.my/8314/index.m3u8?token=Njrty24ghjCnjNfr
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",FilmZone
-http://45.159.74.14:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Go3 Films FHD
-http://87.99.87.203:2020/channel/5023b065/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",MM NewFilm 1 HD
-http://live.admuspeh.my/8741/video.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",MM NewFilm 2 HD
-http://live.admuspeh.my/8742/video.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",MM NewFilm 3 HD
-http://live.admuspeh.my/8743/video.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",MM NewFilm RU HD
-http://live.admuspeh.my/8706/video.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",MM USSR Мультфильм HD
-http://live.admuspeh.my/8913/video.m3u8?token=TestuspehTva
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Movie Classic
-http://158.101.194.132:8080/channel/n3b2f2768/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",MOVIE HD
-http://fs2.persik.by/Movie2/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",TEST FILM TV
-http://filmtvgroup.hopto.org:8080/test/index.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Детские фильмы
-https://fs2.persik.by/DetskieFilmy5/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Кино и сериалы (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Кино и сериалы HD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Комедийные сериалы
-http://fs2.persik.by/Komedijnie_seriali6/index.m3u8
-#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://iptvx.one/picons/mir-seriala.png" group-title="Видеотека (VOD)",Мир сериала (EDTV 576p)
-http://185.23.80.28:8080/MirSeriala/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Видеотека (VOD)",Мосфильм. Золотая коллекция (HD)
-http://185.50.148.2:7706/Mosfilm/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Новогодние фильмы
-http://fs2.persik.by/Novogodnie_Filmy_9/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",НТВ СЕРИАЛ
-http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="http://epg.one/img2/1754.png" group-title="Видеотека (VOD)",НТВ Сериал (WSVGA)
-http://cdn2.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Остросюжетные сериалы
-http://fs2.persik.by/OstrosuzhetnieSerialy8/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Рождественские фильмы
-http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Семейные фильмы
-http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Фильм
-http://stream02.vnet.am/Kinoman/mono.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Видеотека (VOD)",Фильм HD
-http://45.159.74.14:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="18+", Alyx Star Лесби с Jazmin Luv (12min)
 https://v148173.cdn-d1.com/a98567b9b4cfb4e139bf750a4e37a40eec84f198/video.drive-movie.com/contents/videos/6000/6748/6748.mp4
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="18+", Alyx Star Лесби с Kenzie Madison (11min)
@@ -593,6 +511,8 @@ http://194.26.229.213/souzmultfilm/index.m3u8
 http://stream01.vnet.am/Kinosemya/mono.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="CHILDREN'S",DUCK TV PLUS
 http://cdnua03.hls.tv/908/hls/8743361621b245838bee193c9ec28322/4825/stream.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="CHILDREN'S",FILM TV GROUP МультКазки
+http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP_multkazki/index.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="CHILDREN'S",Gulli Girl
 http://135.181.115.81:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="CHILDREN'S",KINO Казка
@@ -645,6 +565,16 @@ http://hls.goodgame.ru/hls/205072.m3u8
 https://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", Fantom
 http://hlss.goodgame.ru/hls/204722.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", Film TV 1
+http://hls.goodgame.ru:8080/hls/163253.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", Film TV 2
+http://hls.goodgame.ru/hls/208358.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", Film TV 3
+http://hls.goodgame.ru/hls/209426.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", Film TV 4
+https://hls.goodgame.ru/hls/181039.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", Film TV 7
+http://hls.goodgame.ru/hls/210275.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", Futurama
 https://hls.goodgame.ru/hls/199417.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", NReality
@@ -661,6 +591,10 @@ http://hls.goodgame.ru/hls/153640.m3u8
 http://hlss.goodgame.ru/hls/204709.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN", Первый автомобильный
 https://hls.goodgame.ru/hls/206355.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN",1FILMAX
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN",2FILMAX
+http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN",TDM TV - WWW
 http://hls.goodgame.ru:8080/hls/192005.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Good Game VPN",Мультики и Сказки HD
@@ -911,12 +845,18 @@ http://95.67.12.82:9046
 http://87.99.87.203:2020/channel/2af95c64/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Duo6
 http://87.99.87.203:2020/channel/2afab981/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",FILM TV GROUP
+http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",FilmZone
+http://45.159.74.14:80/Filmzone/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Fox
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",FX
 http://live.admuspeh.my/8051/index.m3u8?token=tvauspehtest
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",FX HD
 http://live.admuspeh.my/8168/index.m3u8?token=iptvshared
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Go3 Films FHD
+http://87.99.87.203:2020/channel/5023b065/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Hollywood HD
 http://live.admuspeh.my/8651/index.m3u8?token=Fas-tvIp25tva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",HORROR
@@ -933,6 +873,8 @@ http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
 https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",MGM
 https://autopilot.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Movie Classic
+http://158.101.194.132:8080/channel/n3b2f2768/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Novella TV
 http://158.101.194.132:8080/channel/7d3fabec/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Plan B
@@ -959,6 +901,8 @@ http://185.23.80.28:8080/StarFamily/index.m3u8?token=fas-tv.com
 http://live.admuspeh.my/8398/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Start World HD
 http://live.admuspeh.my/8402/index.m3u8?token=Tva25uspehTest
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",TEST FILM TV
+http://filmtvgroup.hopto.org:8080/test/index.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",TV 1 KG FHD
 https://rebrand.ly/tqiq6lv/ROSTIK-TV/TV-1-KG
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",TV 21
@@ -1175,6 +1119,10 @@ http://213.226.137.140:81/tl/l51/mpegts
 http://live.admuspeh.my/8196/video.m3u8?token=Tvatestuspeh25
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",ТСВ iptv-org-ua
 https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Фильм
+http://stream02.vnet.am/Kinoman/mono.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Фильм HD
+http://45.159.74.14:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",ХИТ
 http://158.101.194.132:8080/channel/n484decb9/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="KINO+",Шокирующее HD
@@ -1195,6 +1143,8 @@ http://178.219.128.68:64888/AXN
 http://178.219.128.68:64889/BABYTV
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Poland",BBC BRIT
 http://178.219.128.68:64889/BBCBRITHD
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Poland",CANAL+ FILM
+http://178.219.128.68:64889/CANAFILMHD
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Poland",CANAL+ SERIALE
 http://178.219.128.68:64888/CANASERIHD
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Poland",Domo Poland
@@ -1545,6 +1495,8 @@ https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Usba TV",Retrovision Motor
 https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Usba TV",Retrovision Movies
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Usba TV",Retrovision Кинопанорама
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Usba TV",TikTok
@@ -1993,6 +1945,10 @@ http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 http://194.158.222.36:6086
 #EXTINF:-1 tvg-id="fanhd" tvg-logo="https://iptvx.one/picons/fanhd.png" group-title="Кинозал",FAN (HD)
 http://hlss.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1 tvg-id="2181" tvg-logo="http://epg.one/img2/2181.png" group-title="Кинозал",Filmbox (EDTV 576p)
+http://130.193.73.10:8937/play/a03s
+#EXTINF:-1 tvg-id="filmbox-arthouse" tvg-logo="https://iptvx.one/picons/filmbox-arthouse.png" group-title="Кинозал",Filmbox Arthouse (EDTV 576p)
+http://130.193.73.10:8937/play/a03t
 #EXTINF:-1 tvg-id="flixsnip" tvg-logo="https://iptvx.one/picons/flixsnip.png" group-title="Кинозал",FlixSnip (EDTV 576p)
 http://130.193.73.10:8937/play/a02r
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://iptvx.one/picons/fox.png" group-title="Кинозал",FX (EDTV 576p)
@@ -2197,6 +2153,8 @@ https://fs2.persik.by/Concerts4/index.m3u8
 https://fs2.persik.by/DJ5/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Hits HD
 http://fs2.persik.by/Hits5/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",MOVIE HD
+http://fs2.persik.by/Movie2/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",POP-ROCK HD
 https://fs2.persik.by/Pop_Rock3/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Relax HD
@@ -2239,6 +2197,8 @@ http://fs2.persik.by/Vicin_10/index.m3u8
 http://fs2.persik.by/Davaj_Pozhenimsya7/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Детские песни
 https://fs2.persik.by/DetskiePesni5/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Детские фильмы
+https://fs2.persik.by/DetskieFilmy5/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",ДОКУМЕНТАЛЬНОЕ
 http://fs2.persik.by/Dokumentalnoe4/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",ДОКУМЕНТАЛЬНОЕ КИНО
@@ -2261,6 +2221,8 @@ https://fs2.persik.by/Kino_po_knigam10/index.m3u8
 http://fs2.persik.by/Pro_druzhbu7/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Киномикс
 https://fs2.persik.by/Kino_Miks13/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Комедийные сериалы
+http://fs2.persik.by/Komedijnie_seriali6/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",КОСМОС
 http://fs2.persik.by/Kosmo7/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",ЛЕГКОЕ КИНО
@@ -2277,8 +2239,12 @@ https://fs2.persik.by/Molodost9/index.m3u8
 http://fs2.persik.by/Molodost9/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",НОВИНКИ fas-tv.com
 https://fs2.persik.by/Novinki9/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Новогодние фильмы
+http://fs2.persik.by/Novogodnie_Filmy_9/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Новое кино
 https://fs2.persik.by/NovoeKino10/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Остросюжетные сериалы
+http://fs2.persik.by/OstrosuzhetnieSerialy8/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Популярное кино
 https://fs2.persik.by/Populyarnoe_Kino_11/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Про родителей HD
@@ -2287,10 +2253,14 @@ http://fs2.persik.by/Pro_roditeley9/index.m3u8
 http://fs2.persik.by/Puteshestvie_vo_vremeni11/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Рекомендуем
 https://fs2.persik.by/Rekomenduem7/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Рождественские фильмы
+http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Рэп HD
 http://fs2.persik.by/Rap2/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Семейное HD
 http://fs2.persik.by/Semejnoe10/index.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Семейные фильмы
+http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",ТЕХНО
 https://fs2.persik.by/Techno3/index.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="ПЕРСИК ТВ",Топ кино
@@ -2497,6 +2467,8 @@ http://live.admuspeh.my/8975/video.m3u8?token=TestuspehTva
 http://live.admuspeh.my/8890/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", BCU Fantastic HD
 http://live.admuspeh.my/8879/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", BCU FilMystic HD
+http://live.admuspeh.my/8880/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", BCU History HD
 http://live.admuspeh.my/8881/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", BCU Kids+
@@ -2535,6 +2507,8 @@ http://live.admuspeh.my/8872/video.m3u8?token=TestuspehTva
 http://live.admuspeh.my/8883/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", BCU Кинозал СССР
 http://live.admuspeh.my/8875/index.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", BCU Мультсериал HD
+http://live.admuspeh.my/8874/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", BCU Сваты HD
 http://live.admuspeh.my/8889/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", BOX Anime
@@ -2607,6 +2581,8 @@ http://live.admuspeh.my/8959/index.m3u8?token=TestuspehTva
 http://live.admuspeh.my/8807/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", CineMan Катастрофы
 http://live.admuspeh.my/8957/index.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", CineMan Комедийные сериалы
+http://live.admuspeh.my/8958/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", CineMan Лесник
 http://live.admuspeh.my/8767/index.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино", CineMan Ментовские Войны
@@ -2655,12 +2631,22 @@ http://live.admuspeh.my/8991/video.m3u8?token=TestuspehTva
 http://live.admuspeh.my/8404/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM Love HD
 http://live.admuspeh.my/8328/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM NewFilm 1 HD
+http://live.admuspeh.my/8741/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM NewFilm 2 HD
+http://live.admuspeh.my/8742/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM NewFilm 3 HD
+http://live.admuspeh.my/8743/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM NewFilm RU HD
+http://live.admuspeh.my/8706/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM Tom And Jerry HD
 http://live.admuspeh.my/8997/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM UFO HD
 http://live.admuspeh.my/8410/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM USSR Детектив HD
 http://live.admuspeh.my/8656/video.m3u8?token=TestuspehTva
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM USSR Мультфильм HD
+http://live.admuspeh.my/8913/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM Walt Disney HD
 http://live.admuspeh.my/8914/video.m3u8?token=TestuspehTva
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Премиум Кино",MM Боевик Classic HD
@@ -3273,6 +3259,8 @@ https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u
 http://185.50.148.2:7707/DomKino/index.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" tvg-logo="https://iptvx.one/picons/domkino-premium.png" group-title="Русский кинозал",Дом кино Премиум (HD ready)
 http://213.226.137.140:81/tl/l75/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Русский кинозал",Мосфильм. Золотая коллекция (HD)
+http://185.50.148.2:7706/Mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="nash-kinopokaz-hd" tvg-logo="https://iptvx.one/picons/nash-kinopokaz.png" group-title="Русский кинозал",Наш кинопоказ (HD)
 http://185.23.80.28:8080/NashKinopokaz/index.m3u8?token=test
 #EXTINF:-1 tvg-id="nashe-muzhskoe-hd" tvg-logo="https://iptvx.one/picons/nashe-muzhskoe-hd.png" group-title="Русский кинозал",Наше Мужское (HD)
@@ -3427,6 +3415,8 @@ http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
 http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4834/stream.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Україна",D1
 https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Україна",FILMUADRAMA HD
+http://live.admuspeh.my/8314/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Україна",FREEDOM
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="None" group-title="Україна",FREEдом
